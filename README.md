@@ -22,12 +22,14 @@ I wrote a plugin for the popular medical image viewer: OsiriX/Horos. This is a s
 - High Sierra (10.13) operating system ( becase of CoreML )
 - OsiriX/Horos medical image viewer.
 
-Just download the plugin, unzip it, click on the installer, and approve it. The plugin will appear in the menu of OsiriX/Horos: Plugins/Image Filters/CnnCAD. You can also add it to the toolbar of the 2D viewer.
+Just download the plugin, unzip it, click on the installer, and approve it. Restart OsiriX/Horos. The plugin will appear in the menu of OsiriX/Horos: Plugins/Image Filters/CnnCAD. You can also add it to the toolbar of the 2D viewer.
 
+Note: Now the plugin only works correctly with Horos!
 
 The OsiriX/Horos can be downloaded from here.  The plugin is licensed with Creative Commons Attribution + Noncommercial + ShareAlike license [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - DISCLAIMER: NOT FOR MEDICAL USE!!! THE PLUGIN IS FOR DEMONSTRATION/RESEARCH/EDUCATION PURPUSES ONLY!
 - http://dkrib.web.elte.hu/cad_faster_rcnn/CnnCAD.osirixplugin.zip
+
 
 
 ---

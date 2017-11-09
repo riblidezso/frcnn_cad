@@ -24,7 +24,9 @@ I wrote a plugin for the popular medical image viewer: OsiriX/Horos. This is a s
 
 Just download the plugin, unzip it, click on the installer, and approve it. Restart OsiriX/Horos. The plugin will appear in the menu of OsiriX/Horos: Plugins/Image Filters/CnnCAD. You can also add it to the toolbar of the 2D viewer.
 
-Note: Now the plugin only works correctly with Horos!
+Note: The plugin is only tested with Horos. OsiriX MD may not work correctly at this time.
+
+Note: The plugin does not work correctly with OsiriX Lite! OsiriX Lite exposes only a downsampled image of the mammogram, and as a result the marks are radically hifted towards the upper left corner. I do not wish to solve this issue with OsiriX Lite, firstly because mammograms should be viewed at full resolution, and also because the program is unusable anyway due to extremely annoying popups.
 
 The OsiriX/Horos can be downloaded from here.  The plugin is licensed with Creative Commons Attribution + Noncommercial + ShareAlike license [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - DISCLAIMER: NOT FOR MEDICAL USE!!! THE PLUGIN IS FOR DEMONSTRATION/RESEARCH/EDUCATION PURPUSES ONLY!

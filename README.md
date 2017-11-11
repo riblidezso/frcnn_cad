@@ -22,7 +22,9 @@ I wrote a plugin for the popular medical image viewer: OsiriX/Horos. This is a s
 - High Sierra (10.13) operating system ( becase of CoreML )
 - OsiriX/Horos medical image viewer.
 
-Just download the plugin, unzip it, click on the installer, and approve it. Restart OsiriX/Horos. The plugin will appear in the menu of OsiriX/Horos: Plugins/Image Filters/CnnCAD. You can also add it to the toolbar of the 2D viewer.
+Installation: Download the plugin, unzip it, click on the installer, and approve it. Restart OsiriX/Horos. The plugin will appear in the menu of OsiriX/Horos: Plugins/Image Filters/CnnCAD. You can also add it to the toolbar of the 2D viewer.
+
+Usage: Open the images in the 2D viewer and click on the menu item: Plugins/Image Filters/CnnCAD. A pop-up will appear to remind you that the tool is not for medical use, and to warn you that detection may take minutes depending on your computer. Just click OK, wait until the beachball stops spinning and the ROI markers appear on the image (In case the model found something, I recommend to run the first test with an obvious cancer).
 
 Note: The plugin is only tested with Horos. OsiriX MD may not work correctly at this time.
 

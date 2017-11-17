@@ -9,7 +9,7 @@ For more details and results please see the article on arXiv: https://arxiv.org/
 
 ### Model weights
 
-Model weights can de downloaded from here, the models is licensed with Creative Commons Attribution + Noncommercial + ShareAlike license [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Model weights can de downloaded from here:
 - http://dkrib.web.elte.hu/cad_faster_rcnn/vgg16_frcnn_cad.caffemodel
 
 
@@ -30,7 +30,7 @@ Note: The plugin is only tested with Horos. OsiriX MD may not work correctly at 
 
 Note: The plugin does not work correctly with OsiriX Lite! OsiriX Lite exposes only a downsampled image of the mammogram, and as a result the marks are radically shifted towards the upper left corner. I do not wish to solve this issue with OsiriX Lite, firstly because mammograms should be viewed at full resolution, and also because the program is unusable anyway due to extremely annoying popups.
 
-The OsiriX/Horos plugin can be downloaded from here.  The plugin is licensed with Creative Commons Attribution + Noncommercial + ShareAlike license [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+The OsiriX/Horos plugin can be downloaded from here:
 - DISCLAIMER: NOT FOR MEDICAL USE!!! THE PLUGIN IS FOR DEMONSTRATION/RESEARCH/EDUCATION PURPUSES ONLY!
 - http://dkrib.web.elte.hu/cad_faster_rcnn/CnnCAD.osirixplugin.zip
 

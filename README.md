@@ -17,6 +17,8 @@ Model weights can de downloaded from here:
 
 ### OsiriX/Horos plugin
 
+![plugin](docs/plugin_img_small.jpg)
+
 I wrote a plugin for the popular medical image viewer: OsiriX/Horos. This is a simplified version of the model. It is based on [CoreML](https://developer.apple.com/machine-learning/). In order to run it you will need:
 - A mac
 - High Sierra (10.13) operating system ( becase of CoreML )

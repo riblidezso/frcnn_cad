@@ -3,6 +3,8 @@
 
 A VGG16 based Faster-RCNN detector trained to detect breast cancer lesions on mammogram images.
 
+This is the basis of the solution which reached 2nd place in [The Digital Mammography DREAM Challenge]( https://www.synapse.org/Digital_Mammography_ DREAM_challenge).
+
 For more details and results please see the article on arXiv: https://arxiv.org/abs/1707.08401
 
 ---

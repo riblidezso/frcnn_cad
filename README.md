@@ -43,4 +43,4 @@ The OsiriX/Horos plugin can be downloaded from here:
 ---
 
 If you want to use the model or the plugin in your research please cite:
-> Ribli, Dezső, et al. "Detecting and classifying lesions in mammograms with Deep Learning." arXiv preprint arXiv:1707.08401 (2017).
+> Ribli, Dezső, et al. "Detecting and classifying lesions in mammograms with Deep Learning." Scientific Reports 8.1 (2018): 4165.
